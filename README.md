@@ -1,5 +1,6 @@
 # TheHellenKellerExperience
-a basic roblox script that gives you the experience hellen keller had. maps out touched objects, rumbles gamepad (if connected) and tells you what you feel.
+This repo holds a raw .lua commit for loadstring usage.
 
+The Hellen Keller experience is exactly what it says. Yes, it does have an exit key. Which also happens to be the H key.
 
-I'm using this repo for the raw url content for a loadstring. 
+I'm using this repo to host the raw url content for a loadstring. 
